@@ -1,0 +1,14 @@
+{
+    "alunos": [
+        "Aurora",
+        "Bento Cabral Lima"
+    ],
+    "notas": [
+        [
+            9
+        ],
+        [
+            8.9
+        ]
+    ]
+}
